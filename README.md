@@ -1,3 +1,3 @@
 # Mini Project - Counter
 ### One can use this to count anything, comes with increasing, decreasing and resetting the count features.
-### Preview: 
+### Preview : https://nishitmittal2004.github.io/Mini_Project-Counter/ 
